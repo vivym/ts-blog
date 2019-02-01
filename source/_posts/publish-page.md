@@ -1,14 +1,9 @@
 ---
-title: 摸金科技下载中心
+title: 摸金科技下载中心 (更新至1.1.0)
 ---
 
 **请下载最新版，并把浏览器中的旧版本删掉！**
 
-## 0.6.0 （最新版）
-**安装完成后，点击插件图标，不要动，等10秒，才有出插件界面。**
-crx下载地址：[戳我](/download/99999Helper-0.6.0.crx)
-zip下载地址：[戳我](/download/0.6.0.zip)
-
-## 0.5.1
-crx下载地址：[戳我](/download/99999Helper-0.5.1.crx)
-zip下载地址：[戳我](/download/0.5.1.zip)
+## 1.1.0 （最新版）
+crx下载地址：[戳我](https://static.jiuwozb.com/download/douyuasst_99999_latest.crx)
+zip下载地址：[戳我](https://static.jiuwozb.com/download/douyuasst_99999_latest.zip)
